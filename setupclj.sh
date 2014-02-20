@@ -23,6 +23,3 @@ wget https://raw.github.com/technomancy/leiningen/stable/bin/lein
 chmod a+x lein
 ./lein
 
-# go home
-cd ~
-
